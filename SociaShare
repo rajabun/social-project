@@ -1,0 +1,1442 @@
+<!DOCTYPE html>
+<!-- saved from url=(0021)https://kitabisa.com/ -->
+<html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg svgclippaths lastchild csscalc no-csspositionsticky mediaqueries webp" lang="en"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <script type="text/javascript" async="" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/mixpanel-2-latest.min.js"></script><script async="" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/default" charset="UTF-8" crossorigin="*"></script><script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/5827.js" async="" type="text/javascript"></script><script async="" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/fbds.js"></script><script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/jquery.min.js"></script><script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/equalheight.min.js"></script><script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/autoNumeric.min.js"></script><script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/fastclick.min.js"></script><script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/slick.min.js"></script><script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/jquery.validate.min.js"></script><script async="" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/analytics.js"></script><script type="text/javascript" async="" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/analytics.min.js"></script><script type="text/javascript">
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+analytics.load("1efXxgtjorjCtDam5xc8iFvMG17FR4Bn");
+analytics.page()
+}}();
+</script><script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/3348350237.js"></script><style type="text/css"></style><script type="application/ld+json">
+            {
+              "@context": "http://schema.org",
+              "@type": "Organization",
+              "url": "http://kitabisa.com/",
+              "logo": "/image/logo.png",
+              
+              "potentialAction": {
+                 "@type": "SearchAction",
+                 "target": "http://kitabisa.com/search?keyword={search_term_string}",
+                 "query-input": "required name=search_term_string"
+               },
+               
+              "contactPoint" : [
+                {
+                  "@type" : "ContactPoint",
+                  "telephone" : "+62852-8058-7434",
+                  "contactType" : "customer service",
+                  // "contactOption" : "TollFree",
+                  "areaServed" : ["ID"],
+                  "availableLanguage" : ["English","Bahasa Indonesia"]
+                } ],
+                
+              "sameAs" : [ "http://plus.google.com/+Kitabisa_ID",
+              "http://instagram.com/kitabisacom",
+              "https://www.facebook.com/kitabisacom",
+              "https://www.youtube.com/user/kitabisaindonesia"] 
+            }
+        </script><script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/saved_resource" data-sumo-site-id="be7fcb2929e52e14625974b4ac929bec94c399bbdb9f15a8960c306cce472883" async="async"></script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0039/5827.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42300678-1', 'auto');
+  ga('send', 'pageview');
+
+  ga('require', 'linker');
+  ga('linker:autoLink', ['blog.kitabisa.com']);
+
+</script>        
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="format-detection" content="telephone=no">
+
+        <link rel="apple-touch-icon-precomposed" href="https://kitabisa.com/elements/images/apple-icon.png" sizes="152x152">
+		<link rel="icon" type="image/png" href="./image/logo.png">
+
+        <meta name="description" content="Situs donasi dan menggalang dana (fundraising) untuk inisiatif, campaign dan program sosial. Mari bergotong royong membangun Indonesia!">
+<meta property="og:title" content="Kitabisa.com - Indonesia&#39;s Fundraising Platform">
+<meta property="og:url" content="https://kitabisa.com">
+<meta property="og:description" content="Situs donasi dan menggalang dana (fundraising) untuk inisiatif, campaign dan program sosial. Mari bergotong royong membangun Indonesia!">
+<meta property="og:image" content="https://kitabisa.com/images/logo-large.png">
+<meta property="og:type" content="website">
+<title>SociaShare</title>
+
+        <link rel="stylesheet" href="./Kitabisa.com - Indonesia's Fundraising Platform_files/main.css">
+        <script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/modernizr.min.js"></script>
+
+    <script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="13359558-e447-43f3-a3cd-aa61c0b91c02/service" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/service.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="8dc42610-ae42-4164-90b1-573478b46574/service" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/service(1).js"></script><link type="text/css" rel="stylesheet" href="./Kitabisa.com - Indonesia's Fundraising Platform_files/sumome-scrollbox-popup.css"><link type="text/css" rel="stylesheet" href="./Kitabisa.com - Indonesia's Fundraising Platform_files/sme-popup.css"></head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <header class="site-header has-slider">
+    <div class="overlay"></div>
+    <div class="container">
+        <a class="site-logo" href="./SociaShare"><img src="./image/site-logo.png" alt=""></a>
+        <button class="option-trigger">
+            <span class="icon-menu"></span>
+            <span class="icon-close"></span>
+        </button>
+        <div class="header-option">
+            <nav class="nav-main" role="navigation">
+                <ul>
+                    <li class="nav-main__item">
+                        <a href="start-fundraising">Saya Mau Fundraising</a>                    </li>
+                    <li class="nav-main__item">
+                        <a href="campaign">Lihat Contoh</a>                    </li>
+                </ul>
+            </nav>
+            <!-- nav-main -->
+
+            <div class="header-search">
+                <form class="form-search" action="https://kitabisa.com/campaign" method="GET">    
+                    <input type="search" name="keyword" placeholder="Cari Campaign">
+                    <button class="btn btn-ir" type="submit">
+                        <span class="icon-search"></span>
+                    </button>
+                </form>
+            </div>
+            <!-- header-search -->
+
+            <div class="header-side-nav">
+                 <div class="header-actions">
+    <ul class="header-actions__items">    
+        <li class="header-actions__item">
+            <a id="js-header-auth open" href="login">Masuk</a>        </li>
+        <li class="header-actions__item">
+            <a href="Register">Daftar</a>        </li>
+        <li class="header-actions__item">
+            <a href="cek-status-donasi">Cek Status Donasi </a>        </li>
+    </ul>
+</div>            </div>
+        </div>
+        <!-- header-option -->
+
+    </div>
+</header>
+        
+        
+<!-- Facebook Conversion Code for HOMEPAGE KITABISA -->
+<iframe style="display: none;"></iframe><script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6028708000750', {'value':'0.00','currency':'USD'}]);
+</script>
+<noscript>&lt;img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6028708000750&amp;amp;cd[value]=0.00&amp;amp;cd[currency]=USD&amp;amp;noscript=1" /&gt;</noscript>
+
+
+<main class="site-main has-slider" style="min-height: 239.5px;">
+
+<div class="home-slider main-slider slick-initialized slick-slider no-notif">
+
+        
+        <div class="slick-list draggable" tabindex="0"><div class="slick-track" style="opacity: 1; width: 1349px; transform: translate3d(0px, 0px, 0px);"><div class="home-slider__item slick-slide slick-active" index="0" style="width: 1349px;">
+            <img class="slide-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/13_7_1439967635_8829065239_f.jpg" alt="BE THE CHANGE">
+            <div class="slide-text center-text ">
+                <div class="container">
+                    <div class="slide-text-content">
+                        
+                                                    <h2 class="slide-title">
+                                BE THE CHANGE                            </h2>
+                        
+                                                    <div class="slide-title--sub">
+                                Galang dana untuk perubahan yang ingin Anda ciptakan, sekarang juga.                            </div>
+                        
+                                                    <div class="slide-cta">
+                                <a class="btn btn--blue" href="start-fundraising">Gimana caranya?</a>                            </div>
+                        
+                    </div>
+                    <!-- slide-text-content -->
+                </div>
+            </div>
+            <!-- slide-text -->
+        </div></div></div>
+
+    
+</div>
+    <section id="featured" class="section-home section-story">
+        <div class="container">
+            <div class="container container--medium">
+                <h2 class="align-center title title--big ">
+                    <span>Belum Daftar?</span>
+                </h2>
+                <p class="align-center text--larger">
+                    Lihat komunitas yang sudah bergabung dengan kami.
+                </p>
+            </div>
+            <!-- section-header -->
+
+            <div class="section-content">
+                <div class="project-list home-project-slide slides slick-initialized slick-slider">
+                    
+                    <div class="slick-list draggable" tabindex="0"><div class="slick-track" style="opacity: 1; width: 4080px; transform: translate3d(0px, 0px, 0px);"><div class="slide__item slick-slide slick-active" index="0" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Pendidikan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="http://www.indonesiamengajar.org"><img class="fit-img" src="./image/indonesia-mengajar.jpg" alt="Tribute to Fuza Aghnia Raem Putri" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="http://www.indonesiamengajar.org">Indonesia Mengajar</a>            </h3>
+            <a class="project-owner--text" href="">Indonesia mengajar membantu mengisi kekurangan guru sekolah dasar</a>            <div class="short-desc">
+                Khususnya di daerah terpencil dengan mengirimkan lulusan terbaik Perguruan Tinggi di Indonesia yang telah dididik intensif untuk menguasai kapasitas kepengajaran dan kepemimpinan untuk bekerja sebagai guru selama satu tahun.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <a class="btn btn--ghost btn--rnd" href="">Lihat semua</a>                
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="http://www.indonesiamengajar.org"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide slick-active" index="1" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Kesehatan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="http://www.pdk3mi.org/"><img class="fit-img" src="./image/pdk3mi.jpg" alt="KADO SUSU UNTUK ANAK AB" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="http://www.pdk3mi.org/">Kedokteran  Komunitas dan Kesehatan  Masyarakat Indonesia</a>            </h3>
+				<a class="project-owner--text" href="">PDK3MI merupakan perhimpunan dokter seminat (PDSm) dibawah Ikatan Dokter Indonesia (IDI).</a>
+            <a class="project-owner--text" href=""></a>            <div class="short-desc">
+                </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+           <a class="btn btn--ghost btn--rnd" href="">Lihat semua</a> 
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="http://www.pdk3mi.org/"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide slick-active" index="2" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Pendidikan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="http://www.1001buku.or.id"><img class="fit-img" src="./image/Komunitas1001buku.jpg" alt="Friends of Lovepink - Madelina Mutia" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="http://www.1001buku.or.id">Komunitas 1001 Buku</a>            </h3>
+            <a class="project-owner--text" href=""></a>            <div class="short-desc">
+                Bantu kami untuk bisa konsisten menjalankan Program Edukasi SADARI ke lebih banyak anak negeri ini agar terselamatkan dari buta huruf.             </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp17.057.117</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="project-bar">
+                    <span class="project-bar-progress" style="width: 68%"></span>
+                </div>
+            
+                            <div class="project-target">
+                    <strong>68%</strong>
+                    <span class="project-deadline">
+                        <span class="icon-schedule"></span>
+                        <strong>41</strong> hari lagi
+                    </span>
+                </div>
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="http://www.1001buku.or.id"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="3" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Personal    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/atapuntukpakbakri"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_13290_1448536826_979804_s.JPG" alt="Atap Untuk Pak Bakri" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/atapuntukpakbakri">Atap Untuk Pak Bakri</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/38890">Sosmas BEM UI</a>            <div class="short-desc">
+                Pusgiwa Berduka. Rumah Pak Bakri (pegawai TU Pusgiwa) roboh karena hujan dan longsor. Mari kita bantu ringankan beban Pak Bakri #AtapUntukPakBakri #DukaPusgiwa            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp11.059.250</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="project-bar">
+                    <span class="project-bar-progress" style="width: 111%"></span>
+                </div>
+            
+                            <div class="project-target">
+                    <strong>111%</strong>
+                    <span class="project-deadline">
+                        <span class="icon-schedule"></span>
+                        <strong>4</strong> hari lagi
+                    </span>
+                </div>
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/atapuntukpakbakri"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="4" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Lingkungan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/koinsaveamaryllis"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_13400_1448777198_429941_s.jpg" alt="#SaveAmaryllis Koin Untuk Kebun Bunga" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/koinsaveamaryllis">#SaveAmaryllis Koin Untuk Kebun Bunga</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/40969">Nadja</a>            <div class="short-desc">
+                Donasi untuk membantu Pak Sukadi membangun ulang kebun bunga Amaryllis setelah diinjak orang-orang tidak bertanggung jawab dan menjaganya tetap indah.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp6.215.003</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="project-bar">
+                    <span class="project-bar-progress" style="width: 124%"></span>
+                </div>
+            
+                            <div class="project-target">
+                    <strong>124%</strong>
+                    <span class="project-deadline">
+                        <span class="icon-schedule"></span>
+                        <strong>11</strong> hari lagi
+                    </span>
+                </div>
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/koinsaveamaryllis"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="5" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Pendidikan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/dafadanirfan"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_13289_1448534731_396596_s.jpg" alt="Bantu Dafa &amp; Irfan Pindah Sekolah Yuk!" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/dafadanirfan">Bantu Dafa &amp; Irfan Pindah Sekolah Yuk!</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/40696">Senyum Kita Jakarta</a>            <div class="short-desc">
+                Saat ini, kakak beradik Dafa &amp; Irfan tidak bisa sekolah karena ayah, seorang kuli angkut, kesulitan menyelesaikan administrasi kepindahan sekolah ke Jakarta.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp3.170.312</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="project-bar">
+                    <span class="project-bar-progress" style="width: 106%"></span>
+                </div>
+            
+                            <div class="project-target">
+                    <strong>106%</strong>
+                    <span class="project-deadline">
+                        <span class="icon-schedule"></span>
+                        <strong>10</strong> hari lagi
+                    </span>
+                </div>
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/dafadanirfan"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="6" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Komunitas    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/bantumolysembuh"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12082_1445093634_503837_s.jpg" alt="Bantu Moly Menyembuhkan Hidung dan Bibirnya" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/bantumolysembuh">Bantu Moly Menyembuhkan Hidung dan Bibirnya</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/17376">Stray Cat Defender</a>            <div class="short-desc">
+                Kucing bernama Moly terserang parasit yang menyebabkan nyaris separuh hidung dan bibirnya hilang.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp2.166.322</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="project-bar">
+                    <span class="project-bar-progress" style="width: 108%"></span>
+                </div>
+            
+                            <div class="project-target">
+                    <strong>108%</strong>
+                    <span class="project-deadline">
+                        <span class="icon-schedule"></span>
+                        <strong>10</strong> hari lagi
+                    </span>
+                </div>
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/bantumolysembuh"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="7" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Pendidikan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/kadokecil"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_13025_1447683882_229451_s.jpg" alt="Kado Kecil" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/kadokecil">Kado Kecil</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/39160">Nadhira Afifa</a>            <div class="short-desc">
+                "Kalau aku juara 1, aku mau tas Barbie dong kak?" -Tami, 7th, yatim piatu.Yuk beri hadiah untuk adik-adik yang tetap berprestasi meski dengan keterbatasan!            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp9.271.184</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="project-bar">
+                    <span class="project-bar-progress" style="width: 132%"></span>
+                </div>
+            
+                            <div class="project-target">
+                    <strong>132%</strong>
+                    <span class="project-deadline">
+                        <span class="icon-schedule"></span>
+                        <strong>10</strong> hari lagi
+                    </span>
+                </div>
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/kadokecil"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="8" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Perempuan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/kadokristountukibu"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12883_1447050376_360005_s.jpg" alt="Kado Kristo untuk Ibu" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/kadokristountukibu">Kado Kristo untuk Ibu</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/38266">Kristo Ardyan</a>            <div class="short-desc">
+                Terima kasih, Mak. Sejak bayi Kristo diasuh Mamak Arista di SOS. Saatnya Kristo berikan kado untuk Mamak dan para ibu asuh di desa tempat tinggal Kristo.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp10.098.672</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="project-bar">
+                    <span class="project-bar-progress" style="width: 84%"></span>
+                </div>
+            
+                            <div class="project-target">
+                    <strong>84%</strong>
+                    <span class="project-deadline">
+                        <span class="icon-schedule"></span>
+                        <strong>10</strong> hari lagi
+                    </span>
+                </div>
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/kadokristountukibu"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="9" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Komunitas    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/gesappsdms"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_13503_1449120351_885561_s.jpg" alt="Gesa for #IndonesiaBermartabat " style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/gesappsdms">Gesa for #IndonesiaBermartabat </a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/41452">Gesa Falugon</a>            <div class="short-desc">
+                Ga usah takut untuk berdonasi banyak, Insya Allah akan dilipatgandakan. Janji Allah SWT!            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp19.710.865</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="project-bar">
+                    <span class="project-bar-progress" style="width: 79%"></span>
+                </div>
+            
+                            <div class="project-target">
+                    <strong>79%</strong>
+                    <span class="project-deadline">
+                        <span class="icon-schedule"></span>
+                        <strong>10</strong> hari lagi
+                    </span>
+                </div>
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/gesappsdms"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="10" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Komunitas    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/bachtiarforppsdms"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_13309_1449805468_293509_s.jpg" alt="Bachtiar For #IndonesiaBermartabat" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/bachtiarforppsdms">Bachtiar For #IndonesiaBermartabat</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/40787">Bachtiar Firdaus</a>            <div class="short-desc">
+                Agar kita semua bisa mewujudkan dan menyaksikan Indonesia yang lebih baik dan bermartabat.!            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp18.256.272</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="project-bar">
+                    <span class="project-bar-progress" style="width: 37%"></span>
+                </div>
+            
+                            <div class="project-target">
+                    <strong>37%</strong>
+                    <span class="project-deadline">
+                        <span class="icon-schedule"></span>
+                        <strong>10</strong> hari lagi
+                    </span>
+                </div>
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/bachtiarforppsdms"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="11" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Olahraga    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/indonesiaf1"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12194_1446115879_881847_s.png" alt="#RioHaryantoF1 - Indonesia Menuju Formula 1" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/indonesiaf1">#RioHaryantoF1 - Indonesia Menuju Formula 1</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/33969">Sahabat Rio</a>            <div class="short-desc">
+                Saatnya Indonesia bertanding di Kejuaraan Dunia Formula 1. Mari dukung perjuangan Rio Haryanto yang telah mengharumkan nama bangsa di kompetisi internasional.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp119.934.765</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="project-bar">
+                    <span class="project-bar-progress" style="width: 0%"></span>
+                </div>
+            
+                            <div class="project-target">
+                    <strong>0%</strong>
+                    <span class="project-deadline">
+                        <span class="icon-schedule"></span>
+                        <strong>41</strong> hari lagi
+                    </span>
+                </div>
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/indonesiaf1"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div></div></div>
+                <button type="button" data-role="none" class="slick-prev slick-disabled" style="display: block;">Previous</button><button type="button" data-role="none" class="slick-next" style="display: block;">Next</button></div>
+                <!-- project-list home-project-slide -->
+
+                <div class="section-action align-center">
+                    <a class="btn btn--ghost btn--rnd" href="">Lihat semua</a>                </div>
+                <!-- section-action -->
+            </div>
+            <!-- section-content -->
+        </div>
+        <!-- container -->
+    </section>
+    <!-- home-section social-section -->
+
+    <section id="success" class="section-home section-story zone-white">
+        <div class="container">
+            <div class="container container--medium">
+                <h2 class="align-center title title--big ">
+                    <span>Artikel</span>
+                </h2>
+                <p class="align-center text--larger">
+                    Apa saja yang terjadi disekitar kita.
+                </p>
+            </div>
+            <!-- section-header -->
+
+            <div class="section-content">
+                <div class="project-list home-project-slide slides slick-initialized slick-slider">
+                    <div class="slick-list draggable" tabindex="0"><div class="slick-track" style="opacity: 1; width: 4080px; transform: translate3d(0px, 0px, 0px);"><div class="slide__item slick-slide slick-active" index="0" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Darurat Medis    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="untukcapau"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_13482_1449055965_937376_s.PNG" alt="Charity For Anisa Fauzia" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="untukcapau">Charity For Anisa Fauzia</a>            </h3>
+            <a class="project-owner--text" href="">Ilman Salim</a>            <div class="short-desc">
+                Gadis 22 thn, kuliah di teknik Industri UNAND yang sedang berjuang melawan penyakit Enchepalitis, radang jaringan otak. Salurkan bantuan anda untuk membantunya!            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp6.335.170</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="untukcapau"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide slick-active" index="1" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Darurat Medis    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="nyokapsuken"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_13470_1449037831_672159_s.jpg" alt="Fundraising untuk Ibu dari Suken" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="nyokapsuken">Fundraising untuk Ibu dari Suken</a>            </h3>
+            <a class="project-owner--text" href="">rsalim</a>            <div class="short-desc">
+                Hi guys, nyokap dari temen kita si Suken hari Sabtu lalu (28/11) jatuh dan tempurung lutut retak. Perlu bantuan untuk medis (operasi dan opnam)            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp5.404.877</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="nyokapsuken"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide slick-active" index="2" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Perempuan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="anandasaveoursister"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_13208_1448339728_815039_s.jpg" alt="#SaveOurSisters - Ananda" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="anandasaveoursister">#SaveOurSisters - Ananda</a>            </h3>
+            <a class="project-owner--text" href="">Ananda arthanelly</a>            <div class="short-desc">
+                Kepedulian saya kepada sesama wanita karena kelemahan dan ketidakberdayaan-nya banyak menjadi korban bagi kaum yang tidak mensyukuri keberadaan dan peran wanita            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp7.919.079</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="anandasaveoursister"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="3" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Darurat Medis    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/helpmangpendi"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_13093_1447838955_122522_s.jpg" alt="#HelpMangPendi - Pembantu Sekolah yang Lumpuh" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/helpmangpendi">#HelpMangPendi - Pembantu Sekolah yang Lumpuh</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/39507">Alumni SMA N 1 Tasikmalaya</a>            <div class="short-desc">
+                Ulurkan bantuan untuk Mang Pendi yang menderita kelumpuhan sejak tahun 2014. Sedikit bantuan dari Anda diharapkan akan mampu membantu dalam melawan penyakitnya            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp27.479.579</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/helpmangpendi"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="4" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Bencana Alam    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/donasialor"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12949_1447221359_269280_s.jpg" alt="Donasi Tenda untuk Korban Gempa Alor" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/donasialor">Donasi Tenda untuk Korban Gempa Alor</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/29449">Adjie Silarus</a>            <div class="short-desc">
+                Bantu saudara kita korban gempa di Alor dengan membentuk Dapur Sosial, Pembagian Sembako dan pendirian tenda darurat.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp4.593.287</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/donasialor"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="5" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Komunitas    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/kangcuham"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12888_1446799805_702133_s.jpg" alt="#KadoPahlawan - Kang Cuham" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/kangcuham">#KadoPahlawan - Kang Cuham</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/38325">Christian Natalie</a>            <div class="short-desc">
+                Hi, bantu kami menggalang dana untuk modal usaha Kang Cuham            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp1.242.485</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/kangcuham"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="6" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Personal    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/kueuntuksuci"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12135_1446450299_656972_s.png" alt="Kue Ulang Tahun untuk Suci (Penderita kanker sel)" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/kueuntuksuci">Kue Ulang Tahun untuk Suci (Penderita kanker sel)</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/31988">Retno</a>            <div class="short-desc">
+                Melalui halaman fundraising ini, saya mengajak teman-teman semua untuk membelikan kue ulang tahun dan syukuran sederhana untuk Suci yang sedang sakit kanker sel            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp1.702.887</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/kueuntuksuci"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="7" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Pendidikan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/deksolikhah"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12621_1445911469_977795_s.jpg" alt="#SolikhaHarusSekolah - Dek Solikhah" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/deksolikhah">#SolikhaHarusSekolah - Dek Solikhah</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/35937">Rizqi Agung Fauzan</a>            <div class="short-desc">
+                Dek Solikhah adalah siswi kelas 2 dari  SMP Taman Dewasa Kumendaman, ia sudah menunggak biaya sekolahnya selama 2 tahun.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp3.884.744</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/deksolikhah"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="8" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Komunitas    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/kopdarnaspsi2015"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12630_1445931951_543711_s.jpg" alt="Kopi Darat Nasional Untuk Orang Baik SeIndonesia" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/kopdarnaspsi2015">Kopi Darat Nasional Untuk Orang Baik SeIndonesia</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/35869">Grace Natalie</a>            <div class="short-desc">
+                Lebih dari 1000 orang baik se-Indonesia akan berkumpul dan berkomitmen melakukan perubahan baik bagi negeri tercinta. Mari dukung gelombang kebaikan ini.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp186.133.662</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/kopdarnaspsi2015"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="9" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Bencana Alam    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/merdekatanpaasap"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12241_1445707218_542218_s.jpg" alt="Pelajar Indonesia Melawan Asap" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/merdekatanpaasap">Pelajar Indonesia Melawan Asap</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/35078">PPI Belanda</a>            <div class="short-desc">
+                Jangkauan tangan kita tak cukup panjang untuk mengusir asap, namun saya dan Anda bisa menolong meringankan beban kawan-kawan kita yang terkena bencana asap            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp26.711.289</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/merdekatanpaasap"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="10" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Kesehatan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/careforcancer"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12086_1445108234_295154_s.jpg" alt="We Care for Cancer!" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/careforcancer">We Care for Cancer!</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/30623">Nuke Miranti</a>            <div class="short-desc">
+                HMHI Universitas Indonesia bekerja sama dengan Yayasan Kasih Anak Kanker Indonesia berupaya menggalang dana untuk kebutuhan teman-teman penderita kanker.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp5.155.355</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="https://kitabisa.com/careforcancer"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div><div class="slide__item slick-slide" index="11" style="width: 340px;">
+<div class="project-list__item">
+    <div class="project-tag">
+        Pemberdayaan    </div>
+    <div class="box">
+        <figure class="item-img center-img">
+            <a href="https://kitabisa.com/thejoyofchildren"><img class="fit-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/31_12148_1445400767_770411_s.png" alt="The Joy of Children" style="width: 105%; height: auto;"></a>        </figure>
+        <div class="item-text" data-equal="story-desc" style="height: 182px;">
+            <h3 class="project-title">
+                <a href="https://kitabisa.com/thejoyofchildren">The Joy of Children</a>            </h3>
+            <a class="project-owner--text" href="https://kitabisa.com/orang-baik/18081">Magdalena Fenisia Caroline</a>            <div class="short-desc">
+                Help me fund this nonprofit project that is intended to teach Engllish skills and empower the street and underprivileged children of Jakarta.            </div>
+        </div>
+
+        <!-- item-text -->
+        <div class="project-status">
+            <div class="project-collected">
+                <strong>Rp4.852.825</strong> <span>terkumpul</span>
+            </div>
+
+                            <div class="notif-status notif-status--done">
+                    Campaign Terdanai
+                </div>
+            
+                    </div>
+        <!-- project-status -->
+        
+        <a class="project-link" href="thejoyofchildren"><span class="sr-only">view detail</span></a>    </div>
+    <!-- box -->
+</div></div></div></div>                <button type="button" data-role="none" class="slick-prev slick-disabled" style="display: block;">Previous</button><button type="button" data-role="none" class="slick-next" style="display: block;">Next</button></div>
+                <!-- project-list home-project-slide -->
+
+                <div class="section-action align-center">
+                    <a class="btn btn--ghost btn--rnd" href="https://kitabisa.com/campaign?filter=funded">Lihat semua</a>                </div>
+                <!-- section-action -->
+            </div>
+            <!-- section-content -->
+        </div>
+        <!-- container -->
+    </section>
+    <!-- home-section product-section -->
+
+            <section id="banner" class="section-home section-banner section-banner--m">
+            <div class="home-slider main-slider slick-initialized slick-slider no-notif">
+
+        
+        <div class="slick-list draggable" tabindex="0"><div class="slick-track" style="opacity: 1; width: 9443px; transform: translate3d(-1349px, 0px, 0px);"><div class="home-slider__item slick-slide slick-cloned" index="-1" style="width: 1349px;">
+            <img class="slide-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/13_18_1446883942_299816413_f.png" alt="#RioHaryantoF1">
+            <div class="slide-text right-text ">
+                <div class="container">
+                    <div class="slide-text-content">
+                        
+                                                    <h2 class="slide-title">
+                                #RioHaryantoF1                            </h2>
+                        
+                                                    <div class="slide-title--sub">
+                                Mari cetak sejarah dengan mendukung orang Indonesia Pertama di F1                            </div>
+                        
+                                                    <div class="slide-cta">
+                                <a class="btn btn--blue" href="indonesiaf1">Gimana caranya?</a>                            </div>
+                        
+                    </div>
+                    <!-- slide-text-content -->
+                </div>
+            </div>
+            <!-- slide-text -->
+        </div><div class="home-slider__item slick-slide slick-active" index="0" style="width: 1349px;">
+            <img class="slide-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/13_26_1448187896_677938864_f.png" alt="Dian Sastro">
+            <div class="slide-text center-text text--black">
+                <div class="container">
+                    <div class="slide-text-content">
+                        
+                                                    <h2 class="slide-title">
+                                Dian Sastro                            </h2>
+                        
+                                                    <div class="slide-title--sub">
+                                "Aku bersyukur bisa bantu korban asap via SociaShare"                            </div>
+                        
+                                                    <div class="slide-cta">
+                                <a class="btn btn--blue" href="dianmelawanasap">Lihat Campaign</a>                            </div>
+                        
+                    </div>
+                    <!-- slide-text-content -->
+                </div>
+            </div>
+            <!-- slide-text -->
+        </div><div class="home-slider__item slick-slide" index="1" style="width: 1349px;">
+            <img class="slide-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/13_27_1448188392_804882537_f.png" alt="Indra Bekti">
+            <div class="slide-text center-text ">
+                <div class="container">
+                    <div class="slide-text-content">
+                        
+                                                    <h2 class="slide-title">
+                                Indra Bekti                            </h2>
+                        
+                                                    <div class="slide-title--sub">
+                                "Aku 2 kali galang dana via SociaShare dan mau lagi! Mudah &amp; terpercaya"                            </div>
+                        
+                                                    <div class="slide-cta">
+                                <a class="btn btn--blue" href="https://kitabisa.com/botakinbekti">Lihat Campaign</a>                            </div>
+                        
+                    </div>
+                    <!-- slide-text-content -->
+                </div>
+            </div>
+            <!-- slide-text -->
+        </div><div class="home-slider__item slick-slide" index="2" style="width: 1349px;">
+            <img class="slide-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/13_29_1448188601_477972190_f.png" alt="Ridwan Kamil">
+            <div class="slide-text center-text ">
+                <div class="container">
+                    <div class="slide-text-content">
+                        
+                                                    <h2 class="slide-title">
+                                Ridwan Kamil                            </h2>
+                        
+                                                    <div class="slide-title--sub">
+                                "1599 bobotoh udunan untuk bantu warga korban asap"                            </div>
+                        
+                                                    <div class="slide-cta">
+                                <a class="btn btn--blue" href="https://kitabisa.com/bobotohpeduli">Lihat Campaign</a>                            </div>
+                        
+                    </div>
+                    <!-- slide-text-content -->
+                </div>
+            </div>
+            <!-- slide-text -->
+        </div><div class="home-slider__item slick-slide" index="3" style="width: 1349px;">
+            <img class="slide-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/13_30_1448188729_808825810_f.png" alt="Pandji Pragiwaksono">
+            <div class="slide-text center-text ">
+                <div class="container">
+                    <div class="slide-text-content">
+                        
+                                                    <h2 class="slide-title">
+                                Pandji Pragiwaksono                            </h2>
+                        
+                                                    <div class="slide-title--sub">
+                                "Kita ngumpulin 300 juta dalam 3 hari. Sangat ringkes &amp; efektif"                            </div>
+                        
+                                                    <div class="slide-cta">
+                                <a class="btn btn--blue" href="https://kitabisa.com/masjidtolikara">Lihat Campaign</a>                            </div>
+                        
+                    </div>
+                    <!-- slide-text-content -->
+                </div>
+            </div>
+            <!-- slide-text -->
+        </div><div class="home-slider__item slick-slide" index="4" style="width: 1349px;">
+            <img class="slide-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/13_18_1446883942_299816413_f.png" alt="#RioHaryantoF1">
+            <div class="slide-text right-text ">
+                <div class="container">
+                    <div class="slide-text-content">
+                        
+                                                    <h2 class="slide-title">
+                                #RioHaryantoF1                            </h2>
+                        
+                                                    <div class="slide-title--sub">
+                                Mari cetak sejarah dengan mendukung orang Indonesia Pertama di F1                            </div>
+                        
+                                                    <div class="slide-cta">
+                                <a class="btn btn--blue" href="https://kitabisa.com/indonesiaf1">Gimana caranya?</a>                            </div>
+                        
+                    </div>
+                    <!-- slide-text-content -->
+                </div>
+            </div>
+            <!-- slide-text -->
+        </div><div class="home-slider__item slick-slide slick-cloned" index="5" style="width: 1349px;">
+            <img class="slide-img" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/13_26_1448187896_677938864_f.png" alt="Dian Sastro">
+            <div class="slide-text center-text text--black">
+                <div class="container">
+                    <div class="slide-text-content">
+                        
+                                                    <h2 class="slide-title">
+                                Dian Sastro                            </h2>
+                        
+                                                    <div class="slide-title--sub">
+                                "Aku bersyukur bisa bantu korban asap via SociaShare"                            </div>
+                        
+                                                    <div class="slide-cta">
+                                <a class="btn btn--blue" href="https://kitabisa.com/dianmelawanasap">Lihat Campaign</a>                            </div>
+                        
+                    </div>
+                    <!-- slide-text-content -->
+                </div>
+            </div>
+            <!-- slide-text -->
+        </div></div></div>
+
+        
+        
+
+        
+        
+
+        
+        
+
+        
+        
+
+    
+<button type="button" data-role="none" class="slick-prev" style="display: block;">Previous</button><button type="button" data-role="none" class="slick-next" style="display: block;">Next</button><ul class="slick-dots" style="display: block;"><li class="slick-active"><button type="button" data-role="none">1</button></li><li><button type="button" data-role="none">2</button></li><li><button type="button" data-role="none">3</button></li><li><button type="button" data-role="none">4</button></li><li><button type="button" data-role="none">5</button></li></ul></div>        </section>
+    
+    
+    <section id="partners" class="section-home section-partner">
+        <div class="container">
+            <div class="container container--medium">
+                <h2 class="align-center title title--big ">
+                    <span>Halaman Partner</span>
+                </h2>
+                <p class="align-center text--larger">
+                    Organisasi dan kegiatan yang ingin berkolaborasi dengan Anda
+                </p>
+            </div>
+            <!-- section-header -->
+
+            <div class="section-content">
+                <div class="col partner-list partner-slider slick-initialized slick-slider">
+                                            <div class="slick-list draggable" tabindex="0"><div class="slick-track" style="opacity: 1; width: 2112px; transform: translate3d(0px, 0px, 0px);"><div class="partner-list__item slick-slide slick-active" index="0" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/melawanasap">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_20_1444291190_816383289_m.jpg" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide slick-active" index="1" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/ppsdms">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_30_1449744329_715762805_m.jpg" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide slick-active" index="2" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/birthdaychallenge">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_32_1447123876_928834361_m.jpg" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide slick-active" index="3" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/pundiperempuan">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_36_1447759756_858514804_m.jpg" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide slick-active" index="4" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/40days">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_43_1450161987_904228849_m.jpg" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide slick-active" index="5" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/walhi">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_139_1450405608_97685473_m.jpg" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide" index="6" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/shaveforhope">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_13_1439460212_803365285_m.png" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide" index="7" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/kompasiana">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_23_1444105214_655787337_m.jpg" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide" index="8" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/movember">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_25_1446439955_489918075_m.jpg" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide" index="9" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/kadountukguru">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_35_1448364838_943855308_m.jpg" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide" index="10" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/adrianmotogp">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_45_1449463957_748815128_m.png" alt="">                                </a>
+                            </div>
+                        </div><div class="partner-list__item slick-slide" index="11" style="width: 151px;">
+                            <div class="item-img">
+                                <a href="https://kitabisa.com/partners/rumahharapan">
+                                    <img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/34_46_1450149435_736050383_m.png" alt="">                                </a>
+                            </div>
+                        </div></div></div>
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                    <button type="button" data-role="none" class="slick-prev slick-disabled" style="display: block;">Previous</button><button type="button" data-role="none" class="slick-next" style="display: block;">Next</button></div>
+                <!-- partner-list -->
+
+                                    <div class="section-action align-center">
+                        <a class="btn btn--ghost btn--rnd" href="https://kitabisa.com/partners">View more</a>                    </div>
+                                <!-- section-action -->
+            </div> <!-- section-content -->
+        </div> <!-- container -->
+    </section>
+
+
+    <section id="subscribe" class="section-home section-yes-no">
+        <div class="container">
+            <div class="question-nav">
+                <ul class="list-question align-center">
+
+                <li class="list-question__item show">Anda mau Indonesia maju?</li><li class="list-question__item">Yang bener?</li><li class="list-question__item last-question">Ah masa?</li>
+                </ul>
+                <ul class="no-answer sr-only"><li class="sr-only"></li></ul>
+                <div class="action-question  align-center">
+                    <button class="btn btn--rnd btn--blue btn-yes">Ya</button>
+                    <button class="btn btn--rnd btn-no">Tidak</button>
+                </div>
+            </div>
+            <!-- question-nav -->
+
+            <div class="action-submit">
+                <h2 class="align-center">Mantap! Sektor apa yang menurut Anda penting untuk dikembangkan?</h2>
+                <form class="form" action="./Kitabisa.com - Indonesia's Fundraising Platform_files/Kitabisa.com - Indonesia&#39;s Fundraising Platform.html" method="POST">
+                    <fieldset>
+                        <ul class="list-nostyle col user-interest">
+                            
+                                <li class="col--m6 user-interest__item form__row" data-equal="list-interest" style="height: 45px;">
+                                    <span class="checker-icon icon-done"></span>
+                                    <input name="subscriber[interest][]" type="checkbox" class="input-interest" id="interest-1" value="6">
+                                    <label for="interest-1">Ekonomi Kreatif</label>
+                                </li> 
+                            
+                            
+                                <li class="col--m6 user-interest__item form__row" data-equal="list-interest" style="height: 45px;">
+                                    <span class="checker-icon icon-done"></span>
+                                    <input name="subscriber[interest][]" type="checkbox" class="input-interest" id="interest-2" value="4">
+                                    <label for="interest-2">Infrastruktur</label>
+                                </li> 
+                            
+                            
+                                <li class="col--m6 user-interest__item form__row" data-equal="list-interest" style="height: 45px;">
+                                    <span class="checker-icon icon-done"></span>
+                                    <input name="subscriber[interest][]" type="checkbox" class="input-interest" id="interest-3" value="5">
+                                    <label for="interest-3">Inovasi</label>
+                                </li> 
+                            
+                            
+                                <li class="col--m6 user-interest__item form__row" data-equal="list-interest" style="height: 45px;">
+                                    <span class="checker-icon icon-done"></span>
+                                    <input name="subscriber[interest][]" type="checkbox" class="input-interest" id="interest-4" value="1">
+                                    <label for="interest-4">Kesehatan</label>
+                                </li> 
+                            
+                            
+                                <li class="col--m6 user-interest__item form__row" data-equal="list-interest" style="height: 45px;">
+                                    <span class="checker-icon icon-done"></span>
+                                    <input name="subscriber[interest][]" type="checkbox" class="input-interest" id="interest-5" value="3">
+                                    <label for="interest-5">Lingkungan</label>
+                                </li> 
+                            
+                            
+                                <li class="col--m6 user-interest__item form__row" data-equal="list-interest" style="height: 45px;">
+                                    <span class="checker-icon icon-done"></span>
+                                    <input name="subscriber[interest][]" type="checkbox" class="input-interest" id="interest-6" value="2">
+                                    <label for="interest-6">Pendidikan</label>
+                                </li> 
+                            
+                            
+                        </ul>
+                    </fieldset>
+                    <p></p><center>Mau dikabari kalau ada campaign keren seputar sektor diatas?</center><p></p>
+                    <fieldset>
+                        <ul class="list-nostyle">
+                            <li class="form__row">
+                                <label for="subscribersEmail" class="sr-only">Email</label>
+                                <input id="subscribersEmail" name="subscriber[email]" type="email" class="form-input form-input--block form-input--large" placeholder="Masukkan email Anda">
+                            </li>
+                            <li class="form__row">
+                                <button class="btn btn--block btn--large btn--blue">KIRIM</button>
+                            </li>
+                        </ul>
+                    </fieldset>
+                </form>
+            </div>
+            <!-- action-submit -->
+            </div>
+    </section>
+
+
+</main>
+        <footer role="contentinfo" class="site-footer">
+    <div class="container">
+        <div class="col">
+            <div class="col--m3">
+                <h3 class="nav-footer-title">Tentang Kami</h3>
+                <ul class="nav-footer">
+                    <li class="nav-footer__item">
+                        <a href="about-us">Apa itu SociaShare?</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="our-team">Tim Kami</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="careers">Karir</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="partners">Partner</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="artikel">Artikel</a>                    </li>
+                </ul>
+            </div>
+            <div class="col--m3">
+                <h3 class="nav-footer-title">Menggalang Dana</h3>
+                <ul class="nav-footer">
+                    <li class="nav-footer__item">
+                        <a href="buat-campaign">Buat Campaign</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="cek-status-donasi">Cek Status Donasi</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="term-and-conditions">Syarat dan Ketentuan</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="privacy-policy">Kebijakan Privasi</a>                    </li>
+                </ul>
+            </div>
+            <div class="col--m3">
+                <h3 class="nav-footer-title">Hubungi Kami</h3>
+                <div class="office-address">
+                    <p>
+                        SociaShare<br>
+                        Jl. Pandawa Lima 3, Blok CB 3 No. 8<br>
+                        Kota Tangerang Selatan<br>
+                        Telepon: 
+                        <a href="tel:085280587434">021-7410552</a><br>
+                        Email: <a href="mailto:support@kitabisa.com">info@sociashare.com</a><br>
+                    </p>
+                </div>
+            </div>
+            <div class="col--m3">
+                <ul class="footer-social">
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-social-fb social-fb" href=""><span class="icon"></span></a>                    </li>
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-twitter social-twtr" href=""><span class="icon"></span></a>                    </li>
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-tumblr social-tmblr" href=""><span class="icon"></span></a>                    </li>
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-youtube social-ytube" href=""><span class="icon"></span></a>                    </li>
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-google social-gogl-plus" href=""><span class="icon"></span></a>                    </li>
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-instagr social-instagr" href=""><span class="icon"></span></a>                    </li>
+                </ul>
+                <!-- <h4 class="align-center no-space">Incubated In</h4> -->
+                <div class="align-center">
+                    <a href="http://www.rumahperubahan.co.id/"><img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/logo-rumah.png" alt=""></a>
+                    <p></p>
+                    <a href="https://mixpanel.com/f/partner"><img src="./Kitabisa.com - Indonesia's Fundraising Platform_files/badge_light.png" alt="Mobile Analytics"></a>
+                </div>
+            </div>
+
+        </div>
+        <!-- cols -->
+
+        <div class="copyright">
+            <small>COPYRIGHT © 2015 SOCIASHARE ALL RIGHTS RESERVED</small>
+        </div>
+    </div>
+</footer>
+        <script>window.myPrefix = '';</script>
+        <script>
+            var path = {
+                    css:myPrefix+"/elements/css/",
+                    js:myPrefix+"/elements/js/vendor/"
+                };
+        </script>
+
+        <script src="./Kitabisa.com - Indonesia's Fundraising Platform_files/main.min.js"></script>
+
+        
+        <script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5513e0719be93ba403a2a88e/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script><script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 947227357;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="./Kitabisa.com - Indonesia's Fundraising Platform_files/conversion.js"></script><iframe name="google_conversion_frame" title="Google conversion frame" width="0" height="0" src="about:blank" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" style="display: none !important; visibility: hidden !important; opacity: 0 !important; background-position: 300px 13px;">&lt;img height="1" width="1" border="0" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/947227357/?frame=0&amp;random=1450713078307&amp;cv=8&amp;fst=1450713078307&amp;num=1&amp;fmt=1&amp;guid=ON&amp;u_h=768&amp;u_w=1366&amp;u_ah=738&amp;u_aw=1366&amp;u_cd=24&amp;u_his=2&amp;u_tz=420&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=7&amp;frm=0&amp;url=https%3A//kitabisa.com/" /&gt;</iframe>
+        <noscript>
+          &lt;div style="display:inline;"&gt;
+            &lt;img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/947227357/?value=0&amp;amp;guid=ON&amp;amp;script=0"/&gt;
+          &lt;/div&gt;
+        </noscript>
+
+            
+
+<!-- rgprasetya -->
+</body></html>

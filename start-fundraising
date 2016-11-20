@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg svgclippaths lastchild csscalc csspositionsticky mediaqueries no-webp" lang="en"><!--<![endif]--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+        <script crossorigin="*" charset="UTF-8" src="start-fundraising_files/default.js" async=""></script><script src="start-fundraising_files/fbds.js" async=""></script><script src="start-fundraising_files/jquery.js"></script><script src="start-fundraising_files/equalheight.js"></script><script src="start-fundraising_files/autoNumeric.js"></script><script src="start-fundraising_files/fastclick.js"></script><script src="start-fundraising_files/slick.js"></script><script src="start-fundraising_files/jquery_002.js"></script><script type="text/javascript" async="" src="start-fundraising_files/5827.js"></script><script src="start-fundraising_files/analytics.js" async=""></script><script src="start-fundraising_files/mixpanel-2-latest.js" async="" type="text/javascript"></script><script src="start-fundraising_files/analytics_002.js" async="" type="text/javascript"></script><script type="text/javascript">
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+analytics.load("1efXxgtjorjCtDam5xc8iFvMG17FR4Bn");
+analytics.page()
+}}();
+</script><script src="start-fundraising_files/3348350237.js"></script><style type="text/css"></style><script type="application/ld+json">
+            {
+              "@context": "http://schema.org",
+              "@type": "Organization",
+              "url": "http://kitabisa.com/",
+              "logo": "https://lh4.googleusercontent.com/-VZJRgemyikI/VL5dasWzBRI/AAAAAAAAABE/PVo9UcCuTpU/w555-h553-no/logo%2Bkitabisa.png",
+              
+              "potentialAction": {
+                 "@type": "SearchAction",
+                 "target": "http://kitabisa.com/search?keyword={search_term_string}",
+                 "query-input": "required name=search_term_string"
+               },
+               
+              "contactPoint" : [
+                {
+                  "@type" : "ContactPoint",
+                  "telephone" : "+62852-8058-7434",
+                  "contactType" : "customer service",
+                  // "contactOption" : "TollFree",
+                  "areaServed" : ["ID"],
+                  "availableLanguage" : ["English","Bahasa Indonesia"]
+                } ],
+                
+              "sameAs" : [ "http://plus.google.com/+Kitabisa_ID",
+              "http://instagram.com/kitabisacom",
+              "https://www.facebook.com/kitabisacom",
+              "https://www.youtube.com/user/kitabisaindonesia"] 
+            }
+        </script><script src="start-fundraising_files/a.js" data-sumo-site-id="be7fcb2929e52e14625974b4ac929bec94c399bbdb9f15a8960c306cce472883" async="async"></script><script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0039/5827.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42300678-1', 'auto');
+  ga('send', 'pageview');
+
+  ga('require', 'linker');
+  ga('linker:autoLink', ['blog.kitabisa.com']);
+
+</script>        
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="format-detection" content="telephone=no">
+
+        <link rel="apple-touch-icon-precomposed" href="https://kitabisa.com/elements/images/apple-icon.png" sizes="152x152">
+        <link rel="icon" type="image/png" href="./image/logo.png">
+
+        <meta property="og:title" content="Kitabisa! - Fundraising Made Easy">
+<meta property="og:description" content="Kitabisa.com adalah website yang memfasilitasi penggalangan dana (fundraising) secara online untuk berbagai macam inisiatif sosial">
+<meta property="og:type" content="article">
+<meta property="og:updated_time" content="1441986133">
+<title>SociaShare - Fundraising Made Easy</title>
+
+        <link rel="stylesheet" href="start-fundraising_files/main.css">
+        <script src="start-fundraising_files/modernizr.js"></script>
+
+    <script src="start-fundraising_files/service_002.js" data-requiremodule="13359558-e447-43f3-a3cd-aa61c0b91c02/service" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><script src="start-fundraising_files/service.js" data-requiremodule="8dc42610-ae42-4164-90b1-573478b46574/service" data-requirecontext="_" async="" charset="utf-8" type="text/javascript"></script><link href="start-fundraising_files/sumome-scrollbox-popup.css" rel="stylesheet" type="text/css"><link href="start-fundraising_files/sme-popup.css" rel="stylesheet" type="text/css"></head>
+    <body>
+        <!--[if lt IE 8]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <header class="site-header has-slider">
+    <div class="overlay"></div>
+    <div class="container">
+        <a class="site-logo" href="./SociaShare"><img src="./image/site-logo.png" alt=""></a>
+        <button class="option-trigger">
+            <span class="icon-menu"></span>
+            <span class="icon-close"></span>
+        </button>
+        <div class="header-option">
+            <nav class="nav-main" role="navigation">
+                <ul>
+                    <li class="nav-main__item">
+                        <a href="start-fundraising">Saya Mau Fundraising</a>                    </li>
+                    <li class="nav-main__item">
+                        <a href="campaign">Lihat Contoh</a>                    </li>
+                </ul>
+            </nav>
+            <!-- nav-main -->
+
+            <div class="header-search">
+                <form class="form-search" action="/campaign" method="GET">    
+                    <input name="keyword" placeholder="Cari Campaign" type="search">
+                    <button class="btn btn-ir" type="submit">
+                        <span class="icon-search"></span>
+                    </button>
+                </form>
+            </div>
+            <!-- header-search -->
+
+            <div class="header-side-nav">
+                 <div class="header-actions">
+    <ul class="header-actions__items">    
+        <li class="header-actions__item">
+            <a id="js-header-auth open" href="login">Masuk</a>        </li>
+        <li class="header-actions__item">
+            <a href="Register">Daftar</a>        </li>
+        <li class="header-actions__item">
+            <a href="cek-status-donasi">Cek Status Donasi </a>        </li>
+    </ul>
+</div>            </div>
+        </div>
+        <!-- header-option -->
+
+    </div>
+</header>
+        
+        
+<!-- Facebook Conversion Code for Landing Page Pixel -->
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6034454782092', {'value':'0.00','currency':'USD'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6034454782092&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+<!-- end of Facebook Conversion Code -->
+
+
+
+<main style="min-height: 252.5px;" class="site-main has-slider">
+    <div class="home-slider main-slider slick-initialized slick-slider no-notif">
+        <div tabindex="0" class="slick-list draggable"><div style="opacity: 1; width: 1349px; transform: translate3d(0px, 0px, 0px);" class="slick-track"><div style="width: 1349px;" index="0" class="home-slider__item slick-slide slick-active">
+            <img class="slide-img" src="start-fundraising_files/bg-gotong-royong.jpg" alt="">
+            <div class="slide-text center-text">
+                <div class="container">
+                    <div class="slide-text-content">
+                        <h2 class="slide-title">
+                            ANDA MAU FUNDRAISING?
+                        </h2>
+                        <div class="slide-title--sub">
+                            Buat halaman fundraising online dan berdayakan jaringan Anda bersama SocioShare
+                        </div>
+                        <div class="slide-cta">
+                        <a class="btn btn--blue" href="login">Ya! Saya Mau!</a>                        </div>
+                    </div>
+                    <!-- slide-text-content -->
+                </div>
+            </div>
+            <!-- slide-text -->
+        </div></div></div>
+        <!-- home-slider__item -->
+    </div>
+
+    <section class="zone-white zone--large pull-up align-center">
+        <div class="container container--medium">
+            <br>
+            <br>
+            <h2 class="title title--big ">
+                <span>Emang apa sih SociaShare?</span>
+            </h2>
+            <p class="text--larger">
+                SociaShare adalah website yang memfasilitasi penggalangan 
+dana (fundraising) dan portal informasi sosial online untuk berbagai macam inisiatif sosial. 
+            </p>
+        </div>
+    </section>
+
+    <section class="zone--large align-center">
+        <div class="container">
+            <h2 class="title title--big ">
+                <span>Terus kenapa fundraising pakai SociaShare?</span>
+            </h2>
+            <br>
+            <div class="col clearfix why-use-us">
+                <div class="col--m4 clearfix why-use-us__item">
+                    <span class="item-number">1</span>
+                    <div class="item-text">
+                        <h3>Simpel!</h3>
+                        <p>Kami tahu Anda orang sibuk. Karena itu 
+seluruh urusan administrasi donasi akan kami tangani. Tak perlu lagi 
+bingung apakah uang si Bobby sudah masuk atau belum.</p>
+                    </div>
+                </div>
+                <!-- why-use-us__item -->
+                <div class="col--m4 clearfix why-use-us__item">
+                    <span class="item-number">2</span>
+                    <div class="item-text">
+                        <h3>Viral</h3>
+                        <p>Hari gini siapa sih yang tidak eksis di social media? Dengan SociaShare, campaign Anda dapat dengan mudah di share oleh <strike>fans</strike> jaringan Anda.</p>
+                    </div>
+                </div>
+                <!-- why-use-us__item -->
+                <div class="col--m4 clearfix why-use-us__item">
+                    <span class="item-number">3</span>
+                    <div class="item-text">
+                        <h3>Transparan</h3>
+                        <p>Reputasi Anda sangat berharga. SociaShare 
+menampilkan informasi penting secara transparan seperti list donatur, 
+detail dan update campaign Anda.</p>
+                    </div>
+                </div>
+                <!-- why-use-us__item -->
+            </div>
+            <a class="btn btn--blue" href="buat-campaign">Klik untuk mulai fundraising</a>        </div>
+    </section>
+
+    
+    <section class="zone-white section-faq">
+        <div class="container container--medium align-center">
+            <h2 class="title title--big ">
+                <span>Frequently Asked Questions</span>
+            </h2>
+            <p class="text--larger">
+                <!-- Lorem ipsum dolor sit amet, consectetur adipisicing elit. -->
+                <!-- <br> -->
+            </p>
+            <ul class="list-nostyle section-faq-list">
+                
+                
+                    <li class="section-faq-list__item clearfix">
+                        <span class="faq-icon icon-forum"></span>
+                        <div class="faq-text">
+                            <strong class="text--larger faq-a">
+                                Apa saja fundraising yang boleh dilakukan di SociaShare?                            </strong>
+                            <div class="faq-q">
+                                <p>Banyak! Untuk Anda, orang baik yang 
+ingin berkontribusi tapi terkendala waktu, Anda dapat dengan mudah 
+menjadi relawan fundraising dan menggalang dana&nbsp;untuk <a href="partners">yayasan dan organisasi terdaftar</a>
+ di&nbsp;SociaShare. Jika Anda memiliki inisiatif sendiri, kami 
+mengakomodir berbagai&nbsp;jenis kebutuhan fundraising dari mulai 
+menolong teman yang butuh biaya pengobatan, patungan menggelar acara 
+komunitas, sampai menciptakan karya seperti buku, film dan produk 
+inovasi. Yang tidak kami akomodir adalah fundraising untuk meminta 
+kebutuhan pribadi dan kegiatan apapun yang melanggar hukum NKRI.</p>
+                            </div>
+                        </div>
+                        <!-- faq-text -->
+                    </li>
+
+                
+                    <li class="section-faq-list__item clearfix">
+                        <span class="faq-icon icon-forum"></span>
+                        <div class="faq-text">
+                            <strong class="text--larger faq-a">
+                                Apakah ada proses seleksi terhadap proposal fundraising yang masuk?                            </strong>
+                            <div class="faq-q">
+                                <p>Selain fundraising yang ditujukan 
+untuk membantu yayasan dan organisasi terdaftar, setiap proposal 
+fundraising yang masuk ke SociaShare&nbsp;akan di cek 1.&nbsp;Identitias 
+individu/organisasi pihak yang akan melakukan fundraising&nbsp;dan 2. 
+Kelayakan informasi yang disediakan. Proposal yang kami tolak 
+cenderung&nbsp;tidak lolos seleksi karena informasi yang disediakan 
+tidak cukup dan tidak meyakinkan.&nbsp;Penting untuk melengkapi form 
+yang ada dengan informasi yang lengkap dan transparan.</p>
+                            </div>
+                        </div>
+                        <!-- faq-text -->
+                    </li>
+
+                
+                    <li class="section-faq-list__item clearfix">
+                        <span class="faq-icon icon-forum"></span>
+                        <div class="faq-text">
+                            <strong class="text--larger faq-a">
+                                Bayar ngga untuk fundraising di SociaShare?                            </strong>
+                            <div class="faq-q">
+                                <p>Anda bisa membuat halaman fundraising
+ online Anda secara gratis.&nbsp;Kami mengenakan biaya administrasi 
+sebesar 5% dari total donasi yang terkumpul, kecuali untuk fundraising 
+bencana alam dan darurat medis (0%). Sebagai social enterprise SociaShare 
+menggunakan fee ini sebagai penunjang kebutuhan&nbsp;operasional.</p>
+                            </div>
+                        </div>
+                        <!-- faq-text -->
+                    </li>
+
+                
+                    <li class="section-faq-list__item clearfix">
+                        <span class="faq-icon icon-forum"></span>
+                        <div class="faq-text">
+                            <strong class="text--larger faq-a">
+                                Apa yang terjadi kalau donasi tidak mencapai target?                            </strong>
+                            <div class="faq-q">
+                                <p>Kami menerapkan sistem '<em>flexible funding</em>',
+ artinya, Anda tetap berhak menerima donasi yang terkumpul meski tidak 
+mencapai target yang ditentukan. Pencairan donasi akan dilakukan disaat 
+periode fundraising Anda&nbsp;telah berakhir.</p>
+                            </div>
+                        </div>
+                        <!-- faq-text -->
+                    </li>
+
+                
+                    <li class="section-faq-list__item clearfix">
+                        <span class="faq-icon icon-forum"></span>
+                        <div class="faq-text">
+                            <strong class="text--larger faq-a">
+                                Bagaimana agar saya dapat banyak donatur?                            </strong>
+                            <div class="faq-q">
+                                <p>Berdasarkan statistik, 40% donatur 
+pertama berasal dari kenalan/lingkaran terdekat pemilik kampanye, 30% 
+kedua berasal dari "temannya teman" dan&nbsp;30% berikutnya barulah 
+orang yang tidak dikenal.<span style="font-family:arial,sans,sans-serif">&nbsp;Artinya, anda harus meyakinkan dulu orang terdekat sebelum menjangkau masyarakat yang lebih luas. Simak <a href="http://blog.kitabisa.com/">tips-tips fundraising jitu di blog kami</a>.</span></p>
+                            </div>
+                        </div>
+                        <!-- faq-text -->
+                    </li>
+
+                
+                    <li class="section-faq-list__item clearfix">
+                        <span class="faq-icon icon-forum"></span>
+                        <div class="faq-text">
+                            <strong class="text--larger faq-a">
+                                Bagaimana cara mencairkan donasi yang terkumpul?                            </strong>
+                            <div class="faq-q">
+                                <p>Sebelum dana kami transfer Anda 
+wajib&nbsp;memberikan update&nbsp;berisikan informasi dana terkumpul, 
+serta rencana/laporan&nbsp;pelaksanaan program. Update ini akan terkirim
+ otomatis ke seluruh donatur, dan jika donasi sudah digunakan Anda wajib
+ untuk melakukan update kembali berisikan laporan penggunaan dana.</p>
+                            </div>
+                        </div>
+                        <!-- faq-text -->
+                    </li>
+
+                
+                    <li class="section-faq-list__item clearfix">
+                        <span class="faq-icon icon-forum"></span>
+                        <div class="faq-text">
+                            <strong class="text--larger faq-a">
+                                Apa saja proses untuk mulai fundraising di SociaShare?                            </strong>
+                            <div class="faq-q">
+                                <p>1. Seleksi proposal: max. 2 hari kerja stelah proposal di submit<br>
+2. Periode fundraising: fleksibel,&nbsp;ditentukan oleh masing-masing&nbsp;pemilik kampanye<br>
+3. Pencairan dana: max. 2 hari kerja setelah kampanye berakhir<br>
+&nbsp;</p>
+
+<p>&nbsp;</p>
+                            </div>
+                        </div>
+                        <!-- faq-text -->
+                    </li>
+
+                                
+            </ul>
+            <!-- section-faq-list -->
+            <!-- <a href="#" class="btn btn--large btn--ghost">View All FAQ</a> -->
+            <a class="btn btn--blue" href="buat-campaign">Saya mau fundraising sekarang</a>        </div>
+    </section>
+    <!-- section-faq -->
+
+</main>
+        <footer role="contentinfo" class="site-footer">
+    <div class="container">
+        <div class="col">
+            <div class="col--m3">
+                <h3 class="nav-footer-title">Tentang Kami</h3>
+                <ul class="nav-footer">
+                    <li class="nav-footer__item">
+                        <a href="about-us">Apa itu SociaShare?</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="our-team">Tim Kami</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="careers">Karir</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="partners">Partner</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="artikel">Artikel</a>                    </li>
+                                    </ul>
+            </div>
+            <div class="col--m3">
+                <h3 class="nav-footer-title">Menggalang Dana</h3>
+                <ul class="nav-footer">
+                    <li class="nav-footer__item">
+                        <a href="buat-campaign">Buat Campaign</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="cek-status-donasi">Cek Status Donasi</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="term-and-conditions">Syarat dan Ketentuan</a>                    </li>
+                    <li class="nav-footer__item">
+                        <a href="privacy-policy">Kebijakan Privasi</a>   </li>
+                </ul>
+            </div>
+            <div class="col--m3">
+                <h3 class="nav-footer-title">Hubungi Kami</h3>
+                <div class="office-address">
+                    <p>
+                        SociaShare<br>
+                        Jl. Pandawa Lima 3, Blok CB 3 No. 8<br>
+                        Kota Tangerang Selatan<br>
+                        Telepon: 
+                        <a href="tel:085280587434">021-7410552</a><br>
+                        Email: <a href="mailto:support@kitabisa.com">info@sociashare.com</a><br>
+                    </p>
+                </div>
+            </div>
+            <div class="col--m3">
+                <ul class="footer-social">
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-social-fb social-fb" href=""><span class="icon"></span></a>                    </li>
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-twitter social-twtr" href=""><span class="icon"></span></a>                    </li>
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-tumblr social-tmblr" href=""><span class="icon"></span></a>                    </li>
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-youtube social-ytube" href=""><span class="icon"></span></a>                    </li>
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-google social-gogl-plus" href=""><span class="icon"></span></a>                    </li>
+                    <li class="footer-social__item">
+                        <a target="_blank" class="btn btn-social btn-instagr social-instagr" href=""><span class="icon"></span></a>                    </li>
+                </ul>
+                <!-- <h4 class="align-center no-space">Incubated In</h4> -->
+                <div class="align-center">
+                    <a href="http://www.rumahperubahan.co.id/"><img src="start-fundraising_files/logo-rumah.png" alt=""></a>
+                    <p></p>
+                    <a href="https://mixpanel.com/f/partner"><img src="start-fundraising_files/badge_light.png" alt="Mobile Analytics"></a>
+                </div>
+            </div>
+
+        </div>
+        <!-- cols -->
+
+        <div class="copyright">
+            <small>COPYRIGHT © 2015 PT. KITA BISA INDONESIA ALL RIGHTS RESERVED</small>
+        </div>
+    </div>
+</footer>
+        <script>window.myPrefix = '';</script>
+        <script>
+            var path = {
+                    css:myPrefix+"/elements/css/",
+                    js:myPrefix+"/elements/js/vendor/"
+                };
+        </script>
+
+        <script src="start-fundraising_files/main.js"></script>
+
+        
+        <script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5513e0719be93ba403a2a88e/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script><script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 947227357;
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+        /* ]]> */
+        </script>
+        <script type="text/javascript" src="start-fundraising_files/conversion.js"></script><iframe style="display: none ! important; visibility: hidden ! important; opacity: 0 ! important; background-position: 300px 13px;" name="google_conversion_frame" title="Google conversion frame" src="start-fundraising_files/a.htm" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" frameborder="0" height="0" width="0">&lt;img
+ height="1" width="1" border="0" alt="" 
+src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/947227357/?frame=0&amp;random=1450722822049&amp;cv=8&amp;fst=1450722822049&amp;num=1&amp;fmt=1&amp;guid=ON&amp;u_h=768&amp;u_w=1366&amp;u_ah=738&amp;u_aw=1366&amp;u_cd=24&amp;u_his=11&amp;u_tz=420&amp;u_java=true&amp;u_nplug=12&amp;u_nmime=67&amp;frm=0&amp;url=https%3A//kitabisa.com/%7Estart-fundraising&amp;ref=https%3A//kitabisa.com/"
+ /&gt;</iframe>
+        <noscript>
+          <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/947227357/?value=0&amp;guid=ON&amp;script=0"/>
+          </div>
+        </noscript>
+
+            
+
+
+<iframe style="display: none;"></iframe><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: auto ! important; position: fixed ! important; border: 0px none ! important; min-height: 0px ! important; min-width: 0px ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: auto ! important; height: auto ! important; z-index: 2000000000 ! important; cursor: auto ! important; float: none ! important; bottom: 0px ! important; right: 0px ! important; left: auto ! important; display: block;" id="tawkchat-iframe-container"><iframe class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: auto ! important; right: auto ! important; bottom: auto ! important; left: auto ! important; position: static ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: 320px ! important; height: 400px ! important; z-index: 999999 ! important; cursor: auto ! important; float: none ! important; display: none ! important;" scrolling="no" src="start-fundraising_files/a_005.htm" id="tawkchat-maximized-iframe-element" frameborder="0"></iframe><iframe class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; position: fixed ! important; border: 0px none ! important; padding: 0px ! important; transition-property: none ! important; z-index: 1000001 ! important; cursor: auto ! important; float: none ! important; height: 40px ! important; min-height: 40px ! important; max-height: 40px ! important; width: 320px ! important; min-width: 320px ! important; max-width: 320px ! important; transform: rotate(0deg) translateZ(0px) ! important; transform-origin: 0px 50% 0px ! important; margin: 0px ! important; top: auto ! important; bottom: 0px ! important; right: 10px ! important; left: auto ! important; display: block ! important;" scrolling="no" src="start-fundraising_files/a_005.htm" id="tawkchat-minified-iframe-element" frameborder="0"></iframe><iframe class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; position: fixed ! important; border: 0px none ! important; padding: 0px ! important; margin: 0px 0px 0px -330px ! important; transition-property: none ! important; transform: none ! important; display: none ! important; z-index: 1000002 ! important; cursor: auto ! important; float: none ! important; top: auto ! important; bottom: 40px ! important; right: 10px ! important; left: auto ! important; width: 320px ! important; max-width: 320px ! important; min-width: 320px ! important; height: 37px ! important; max-height: 37px ! important; min-height: 37px ! important;" scrolling="no" src="start-fundraising_files/a_005.htm" id="chat-indicator-iframe" frameborder="0"></iframe><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: rgb(255, 255, 255) none repeat scroll 0% 0% ! important; opacity: 0 ! important; top: 1px ! important; bottom: auto ! important; position: absolute ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: auto ! important; height: 45px ! important; display: block ! important; z-index: 999997 ! important; cursor: move ! important; float: none ! important; left: 150px ! important; right: 96px ! important;" id="tawkchat-drag-element"></div><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: 0px ! important; right: 96px ! important; bottom: auto ! important; left: 0px ! important; position: absolute ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: 6px ! important; height: 100% ! important; display: block ! important; z-index: 999998 ! important; cursor: w-resize ! important; float: none ! important;" id="tawkchat-resize-left"></div><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: 0px ! important; right: 0px ! important; bottom: auto ! important; left: auto ! important; position: absolute ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: 6px ! important; height: 100% ! important; display: block ! important; z-index: 999998 ! important; cursor: e-resize ! important; float: none ! important;" id="tawkchat-resize-right"></div><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: 0px ! important; right: 0px ! important; bottom: auto ! important; left: auto ! important; position: absolute ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: 100% ! important; height: 6px ! important; display: block ! important; z-index: 999998 ! important; cursor: n-resize ! important; float: none ! important;" id="tawkchat-resize-top"></div><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: auto ! important; right: 0px ! important; bottom: 0px ! important; left: auto ! important; position: absolute ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: 100% ! important; height: 6px ! important; display: block ! important; z-index: 999998 ! important; cursor: s-resize ! important; float: none ! important;" id="tawkchat-resize-bottom"></div><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: 0px ! important; right: auto ! important; bottom: auto ! important; left: 0px ! important; position: absolute ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: 12px ! important; height: 12px ! important; display: block ! important; z-index: 999998 ! important; cursor: nw-resize ! important; float: none ! important;" id="tawkchat-resize-top-left"></div><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: 0px ! important; right: 0px ! important; bottom: auto ! important; left: auto ! important; position: absolute ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: 12px ! important; height: 12px ! important; display: block ! important; z-index: 999998 ! important; cursor: ne-resize ! important; float: none ! important;" id="tawkchat-resize-top-right"></div><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: auto ! important; right: auto ! important; bottom: 0px ! important; left: 0px ! important; position: absolute ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: 12px ! important; height: 12px ! important; display: block ! important; z-index: 999998 ! important; cursor: sw-resize ! important; float: none ! important;" id="tawkchat-resize-bottom-left"></div><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: auto ! important; right: 0px ! important; bottom: 0px ! important; left: auto ! important; position: absolute ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: 12px ! important; height: 12px ! important; display: block ! important; z-index: 999999 ! important; cursor: se-resize ! important; float: none ! important;" id="tawkchat-resize-bottom-right"></div><div class="" style="outline: medium none ! important; visibility: visible ! important; resize: none ! important; box-shadow: none ! important; overflow: visible ! important; background: transparent none repeat scroll 0% 0% ! important; opacity: 1 ! important; top: 0px ! important; right: auto ! important; bottom: auto ! important; left: 0px ! important; position: absolute ! important; border: 0px none ! important; min-height: auto ! important; min-width: auto ! important; max-height: none ! important; max-width: none ! important; padding: 0px ! important; margin: 0px ! important; transition-property: none ! important; transform: none ! important; width: 100% ! important; height: 100% ! important; display: none ! important; z-index: 1000001 ! important; cursor: move ! important; float: left ! important;" id="tawkchat-overlay"></div></div><a href="javascript:void(0);" title="SumoMe" style="background-color: rgb(15, 82, 186); position: fixed; display: none ! important; z-index: 2147483647; padding: 0px; background-repeat: no-repeat; background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyRpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBNjE1OTIxRTcwNzUxMUUzQkUxRkIxNEU0NUM0RjM4OCIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBNjE1OTIxRjcwNzUxMUUzQkUxRkIxNEU0NUM0RjM4OCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkUzQjQyQzRENzA3NDExRTNCRTFGQjE0RTQ1QzRGMzg4IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkUzQjQyQzRFNzA3NDExRTNCRTFGQjE0RTQ1QzRGMzg4Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+t9pejAAAAWRJREFUeNrslz1Lw1AUhhOlYhXFiEt/gIigm+isg5sOjs7+D/+HY91ENxGRxFLxY+zWSRCdHMQ6OTgYnwsnEEppTtMEAp4DL29yuefcJ/fk9sOP49irckx4FQ8DNEADNEADNMD/CvjV6x0j9QMwdx11nY+Q47t18u7gMjqlQE0Dh92iVefcbyhyJrETtJIXMEKH6IJi0wq4JRlyHjG+lQHXREeSmxvQxR66ouicAi6JeYHcGZAzhZ3Jw6fXGQ1wIQjesGe53UYhxRcVcEnMokvm7fbBnaMDGXplnZdxTnGYut5EbRZpSPvaQ+CSqAvkPprh+lo6Mqh+LsD+7V9DD+gGBcrDWpNde5ROpKOVlewP+08iLf1w80r6mGvQ4vfcO0jyJ9YpCa6bBaf9JolKAmxpJmkAw5IAw6IA79FPwXC/6K4QQN6Tb+ypYMCOvN/eWKfYfm4ZoAEaoAEaoAEaYOUB/wQYAATRi8cPOM7SAAAAAElFTkSuQmCC&quot;); width: 44px; height: 40px; text-indent: -10000px;"></a><iframe style="display: none;"></iframe><iframe style="display: none ! important;" src="start-fundraising_files/a_005.htm"></iframe></body></html>
+<!-- rgprasetya -->
